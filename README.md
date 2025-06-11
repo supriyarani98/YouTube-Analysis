@@ -65,7 +65,7 @@ DAX
 -Viewed by Subscriber = DIVIDE(Uploads[Views], Uploads[Subscribers])
 
 
-###📊 Dashboard Highlights
+### 📊 Dashboard Highlights
 -Channel Type Performance: Comedy, Education, Entertainment, and Music dominate viewer engagement.
 
 -People & Blogs and News are top in upload volume.
@@ -75,7 +75,7 @@ DAX
 -Viewed by Subscriber helps compare engagement across different channel types.
 
 
-###📌 Outcome
+### 📌 Outcome
 -This dashboard enables stakeholders to:
 
 -Understand which types of channels drive the most content and engagement.
@@ -88,7 +88,7 @@ DAX
 
 
 
-###🚀 Get Started
+### 🚀 Get Started
 -To explore or use this dashboard:
 
 -Open the .pbix file in Power BI Desktop.
