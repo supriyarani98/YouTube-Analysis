@@ -57,7 +57,7 @@ The project uses **Power BI** with **SQL**, **Excel**, and **DAX** to extract, c
 ## 📐 Calculated Columns & Measures (DAX)
 
 ### ✅ Measure – `Total Uploads`
-```DAX
+DAX
 Total Uploads = SUM(Uploads[UploadCount])
 
 
