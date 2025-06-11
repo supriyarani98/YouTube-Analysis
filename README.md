@@ -58,43 +58,43 @@ The project uses **Power BI** with **SQL**, **Excel**, and **DAX** to extract, c
 
 ### ✅ Measure – `Total Uploads`
 DAX
--Total Uploads = SUM(Uploads[UploadCount])
+- Total Uploads = SUM(Uploads[UploadCount])
 
 
 ### ✅ Calculated Column – Viewed by Subscriber
--Viewed by Subscriber = DIVIDE(Uploads[Views], Uploads[Subscribers])
+- Viewed by Subscriber = DIVIDE(Uploads[Views], Uploads[Subscribers])
 
 
 ### 📊 Dashboard Highlights
--Channel Type Performance: Comedy, Education, Entertainment, and Music dominate viewer engagement.
+- Channel Type Performance: Comedy, Education, Entertainment, and Music dominate viewer engagement.
 
--People & Blogs and News are top in upload volume.
+- People & Blogs and News are top in upload volume.
 
--India, Indonesia, and Brazil have the highest view counts.
+- India, Indonesia, and Brazil have the highest view counts.
 
--Viewed by Subscriber helps compare engagement across different channel types.
+- Viewed by Subscriber helps compare engagement across different channel types.
 
 
 ### 📌 Outcome
--This dashboard enables stakeholders to:
+- This dashboard enables stakeholders to:
 
--Understand which types of channels drive the most content and engagement.
+- Understand which types of channels drive the most content and engagement.
 
--Identify countries with the highest YouTube traffic.
+- Identify countries with the highest YouTube traffic.
 
--Evaluate content strategy using the Viewed by Subscriber metric.
+- Evaluate content strategy using the Viewed by Subscriber metric.
 
--Visualize upload and view patterns clearly with dynamic visuals.
+- Visualize upload and view patterns clearly with dynamic visuals.
 
 
 
 ### 🚀 Get Started
--To explore or use this dashboard:
+- To explore or use this dashboard:
 
--Open the .pbix file in Power BI Desktop.
+- Open the .pbix file in Power BI Desktop.
 
-Connect to your own YouTube dataset (optional).
+- Connect to your own YouTube dataset (optional).
 
-Update calculated fields as needed.
+- Update calculated fields as needed.
 
-Refresh and publish the report to Power BI Service if required.
+- Refresh and publish the report to Power BI Service if required.
