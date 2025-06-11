@@ -58,40 +58,40 @@ The project uses **Power BI** with **SQL**, **Excel**, and **DAX** to extract, c
 
 ### ✅ Measure – `Total Uploads`
 DAX
-Total Uploads = SUM(Uploads[UploadCount])
+-Total Uploads = SUM(Uploads[UploadCount])
 
 
-## ✅ Calculated Column – Viewed by Subscriber
+### ✅ Calculated Column – Viewed by Subscriber
 -Viewed by Subscriber = DIVIDE(Uploads[Views], Uploads[Subscribers])
 
 
-📊 Dashboard Highlights
-Channel Type Performance: Comedy, Education, Entertainment, and Music dominate viewer engagement.
+###📊 Dashboard Highlights
+-Channel Type Performance: Comedy, Education, Entertainment, and Music dominate viewer engagement.
 
-People & Blogs and News are top in upload volume.
+-People & Blogs and News are top in upload volume.
 
-India, Indonesia, and Brazil have the highest view counts.
+-India, Indonesia, and Brazil have the highest view counts.
 
-Viewed by Subscriber helps compare engagement across different channel types.
-
-
-📌 Outcome
-This dashboard enables stakeholders to:
-
-Understand which types of channels drive the most content and engagement.
-
-Identify countries with the highest YouTube traffic.
-
-Evaluate content strategy using the Viewed by Subscriber metric.
-
-Visualize upload and view patterns clearly with dynamic visuals.
+-Viewed by Subscriber helps compare engagement across different channel types.
 
 
+###📌 Outcome
+-This dashboard enables stakeholders to:
 
-🚀 Get Started
-To explore or use this dashboard:
+-Understand which types of channels drive the most content and engagement.
 
-Open the .pbix file in Power BI Desktop.
+-Identify countries with the highest YouTube traffic.
+
+-Evaluate content strategy using the Viewed by Subscriber metric.
+
+-Visualize upload and view patterns clearly with dynamic visuals.
+
+
+
+###🚀 Get Started
+-To explore or use this dashboard:
+
+-Open the .pbix file in Power BI Desktop.
 
 Connect to your own YouTube dataset (optional).
 
